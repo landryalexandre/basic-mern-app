@@ -1,5 +1,5 @@
 {
-  "name": "mern-stack-template",
+  "name": "basic-mern-app",
   "version": "1.0.0",
   "description": "mern stack template for quick deployment",
   "main": "app.js",
@@ -8,7 +8,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brandonv98/MERN-Stack-Template.git"
   },
   "keywords": [
     "javascript",
@@ -19,12 +18,8 @@
     "mern",
     "stack"
   ],
-  "author": "Brandon VanCamp",
+  "author": "Alexandre Landry",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/brandonv98/MERN-Stack-Template/issues"
-  },
-  "homepage": "https://github.com/brandonv98/MERN-Stack-Template#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
